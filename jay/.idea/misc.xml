@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/fox76/AndroidStudioProjects/app/src/main/res/drawable/btm_color_selector.xml" value="0.1" />
+        <entry key="..\:/Users/fox76/AndroidStudioProjects/app/src/main/res/drawable/radius.xml" value="0.108" />
+        <entry key="..\:/Users/fox76/AndroidStudioProjects/app/src/main/res/layout/activity_main.xml" value="0.144" />
+        <entry key="..\:/Users/fox76/AndroidStudioProjects/app/src/main/res/layout/fragment_home.xml" value="0.24079850280723644" />
+        <entry key="..\:/Users/fox76/AndroidStudioProjects/app/src/main/res/layout/shape.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/fox76/AndroidStudioProjects/app/src/main/res/menu/bottom_menu_nav.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/fox76/AndroidStudioProjects/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/fox76/AndroidStudioProjects/flo_clone/app/src/main/res/drawable/radius.xml" value="0.196" />
+        <entry key="..\:/Users/fox76/AndroidStudioProjects/flo_clone/app/src/main/res/drawable/textview_background_radius.xml" value="0.1535" />
+        <entry key="..\:/Users/fox76/AndroidStudioProjects/flo_clone/app/src/main/res/drawable/textview_background_select_color_radius.xml" value="0.1535" />
+        <entry key="..\:/Users/fox76/AndroidStudioProjects/flo_clone/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/fox76/AndroidStudioProjects/flo_clone/app/src/main/res/layout/activity_main.xml" value="0.16019736842105264" />
+        <entry key="..\:/Users/fox76/AndroidStudioProjects/flo_clone/app/src/main/res/layout/activity_song.xml" value="0.10416666666666667" />
+        <entry key="..\:/Users/fox76/AndroidStudioProjects/flo_clone/app/src/main/res/layout/fragment_album.xml" value="0.13815789473684212" />
+        <entry key="..\:/Users/fox76/AndroidStudioProjects/flo_clone/app/src/main/res/layout/fragment_home.xml" value="0.16019736842105264" />
+        <entry key="..\:/Users/fox76/AndroidStudioProjects/flo_clone/app/src/main/res/layout/fragment_locker.xml" value="0.11973684210526316" />
+        <entry key="..\:/Users/fox76/AndroidStudioProjects/flo_clone/app/src/main/res/layout/fragment_look.xml" value="0.11973684210526316" />
+        <entry key="..\:/Users/fox76/AndroidStudioProjects/flo_clone/app/src/main/res/layout/fragment_search.xml" value="0.11973684210526316" />
+        <entry key="..\:/Users/fox76/AndroidStudioProjects/flo_clone/app/src/main/res/menu/bottom_menu_nav.xml" value="0.16019736842105264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
