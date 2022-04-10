@@ -22,6 +22,21 @@
         <entry key="..\:/Users/fox76/AndroidStudioProjects/flo_clone/app/src/main/res/layout/fragment_look.xml" value="0.11973684210526316" />
         <entry key="..\:/Users/fox76/AndroidStudioProjects/flo_clone/app/src/main/res/layout/fragment_search.xml" value="0.11973684210526316" />
         <entry key="..\:/Users/fox76/AndroidStudioProjects/flo_clone/app/src/main/res/menu/bottom_menu_nav.xml" value="0.16019736842105264" />
+        <entry key="..\:/umc-android-2th/jay/app/src/main/res/drawable/textview_background_radius.xml" value="0.1585" />
+        <entry key="..\:/umc-android-2th/jay/app/src/main/res/drawable/textview_background_select_color_radius.xml" value="0.1585" />
+        <entry key="..\:/umc-android-2th/jay/app/src/main/res/layout/activity_song.xml" value="0.1" />
+        <entry key="..\:/umc-android-2th/jay/app/src/main/res/layout/fragment_album.xml" value="0.1" />
+        <entry key="..\:/umc-android-2th/jay/app/src/main/res/layout/fragment_banner.xml" value="0.1" />
+        <entry key="..\:/umc-android-2th/jay/app/src/main/res/layout/fragment_detail.xml" value="0.1" />
+        <entry key="..\:/umc-android-2th/jay/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/umc-android-2th/jay/app/src/main/res/layout/fragment_locker.xml" value="0.12072368421052632" />
+        <entry key="..\:/umc-android-2th/jay/app/src/main/res/layout/fragment_locker_musicfile.xml" value="0.12072368421052632" />
+        <entry key="..\:/umc-android-2th/jay/app/src/main/res/layout/fragment_locker_savedalbum.xml" value="0.143520782396088" />
+        <entry key="..\:/umc-android-2th/jay/app/src/main/res/layout/fragment_locker_savedsong.xml" value="0.12072368421052632" />
+        <entry key="..\:/umc-android-2th/jay/app/src/main/res/layout/fragment_song.xml" value="0.12072368421052632" />
+        <entry key="..\:/umc-android-2th/jay/app/src/main/res/layout/fragment_video.xml" value="0.1" />
+        <entry key="..\:/umc-android-2th/jay/app/src/main/res/layout/item_locker_album.xml" value="0.12072368421052632" />
+        <entry key="..\:/umc-android-2th/jay/app/src/main/res/layout/item_song.xml" value="0.12072368421052632" />
       </map>
     </option>
   </component>
