@@ -1,2 +1,2 @@
-# umc-android-2th
-dongguk umc android 2th
+# umc-android-2nd
+dongguk umc android 2nd
